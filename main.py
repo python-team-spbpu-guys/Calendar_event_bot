@@ -4,7 +4,7 @@ import sys
 
 from aiogram import Dispatcher
 
-from Calendar_event_bot.bot_instance import bot
+from bot_instance import bot
 from handlers.handlers import router
 
 
