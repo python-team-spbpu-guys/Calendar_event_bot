@@ -86,11 +86,11 @@ The Telegram Calendar Bot allows users to create and manage events with other pe
 
 1. **Start the Bot**: Send `/start` to the bot.
 2. **Group Management**:
-   - Create a group.
-   - Add or remove members.
+   - To create a group, navigate to "Группы" -> "Создать новую группу" -> Enter a name for the group.
+   - In the selected group, you can add participants using the provided buttons.
 3. **Event Scheduling**:
-   - Create an event for a group.
-   - Add or remove dates for the event.
+   - To create an event, navigate to "События" -> "Добавить событие" -> Select a group -> Enter a name for the event.
+   - In the selected event within the chosen group, you can add or remove times by pressing the corresponding buttons.
 4. **Receive Notifications**: Get reminders before events.
 
 ---
