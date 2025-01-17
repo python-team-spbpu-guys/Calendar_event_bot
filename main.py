@@ -2,11 +2,10 @@ import asyncio
 import logging
 import sys
 
-from aiogram import Bot, Dispatcher
+from aiogram import Dispatcher
 
+from Calendar_event_bot.bot_instance import bot
 from handlers.handlers import router
-
-bot = Bot(token="7610956912:AAFHgZOe23Q-oOIVfSTHHroXY5BT5qaHqUE")
 
 
 async def main() -> None:
